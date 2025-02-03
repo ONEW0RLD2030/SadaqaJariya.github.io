@@ -1,1 +1,1 @@
-gem install bundler jekyll
+bundle exec jekyll servegem install bundler jekyll
