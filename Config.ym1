@@ -1,0 +1,4 @@
+title: صدقة جارية
+  theme: minima
+  plugins:
+    - jekyll-feed
